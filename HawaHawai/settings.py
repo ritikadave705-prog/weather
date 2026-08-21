@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-eug=38pm9j_q)ds@^ick^81#swk(1fy38cd#gx9%ae3+n%44#z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["weather-django-cyan.vercel.app"]
 
 
 # Application definition
